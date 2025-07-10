@@ -1,4 +1,4 @@
-# Proyecto Final UDD — API de Análisis de Sentimientos
+# Proyecto Final UDD - Juan Camilo Rivera G — API de Análisis de Sentimientos (Reviews Google)
 
 Esta API permite predecir el **sentimiento** (Negativo, Neutral, Positivo) y calcular la **subjetividad** de un review de google usando modelos entrenados con Word2Vec y XGBoost.
 
