@@ -19,10 +19,11 @@ Esta API permite predecir el **sentimiento** (Negativo, Neutral, Positivo) y cal
 - `runtime.txt`: versión específica de Python utilizada (3.10.11).
 - `google_reviews_model.pkl`: modelo entrenado de clasificación.
 - `word2vec_model.model`: modelo Word2Vec entrenado.
+- `Proyecto Final UDD - Juan Camilo Rivera G - Reviews google`: Presentación con storytelling del modelo implementado.
 
 ---
 
-## ⚙️ Endpoints:
+## ⚙️ Endpoints API:
 https://proyecto-final-udd.onrender.com/predict
 
 ### `POST /predict`
