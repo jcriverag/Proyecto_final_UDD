@@ -30,9 +30,9 @@ https://proyecto-final-udd.onrender.com/predict
 **Descripción:**  
 Recibe un texto y devuelve la predicción del sentimiento y la subjetividad.
 
-**Request body (JSON):**
+**Ejemplo Request body (JSON):**
 
 ```json
 {
-  "text": "No recipe book Unable recipe book"
+  "text": "Ten best food promote good health Good health essential long healthy lifestyle make habit eat foods promote good health. Eat fruits veggies every day."
 }
